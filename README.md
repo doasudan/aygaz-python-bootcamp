@@ -36,7 +36,7 @@ Terminal veya komut istemcisinde proje dizinine gidin.
 Aşağıdaki komutu çalıştırın:
 
 ```bash
-  python tas_kagit_makas_Umut_Can_Yildiz.py
+ 
 ```
 
 ## Oyun Kuralları
