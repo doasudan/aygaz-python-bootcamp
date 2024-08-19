@@ -36,7 +36,7 @@ Terminal veya komut istemcisinde proje dizinine gidin.
 Aşağıdaki komutu çalıştırın:
 
 ```bash
- 
+ tas_kagit_makas_Doga_Sudan.py
 ```
 
 ## Oyun Kuralları
